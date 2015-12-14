@@ -1,0 +1,9 @@
+[package]
+name = "rust_mysql_test"
+version = "0.1.0"
+authors = ["Shin Dong Chan <indie@nhnnext.org>"]
+
+[dependencies.mysql]
+mysql = "*"
+default-features = false
+features = ["socket"]

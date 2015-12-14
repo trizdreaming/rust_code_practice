@@ -1,0 +1,8 @@
+[package]
+name = "baseball"
+version = "0.0.1"
+authors = ["Trizdreaming <indie@nhnnext.org>"]
+
+
+[dependencies]
+rand = "0.3.8"
